@@ -1,4 +1,4 @@
-# ✨ Hi there, I'm Leonardo! ✨
+#  Hi there, I'm Leonardo! 
 
 * 🎓 Computer Science Student at UNISANTOS (Universidade Católica de Santos).
 * 🛠️ Currently working as a IT Infrastructure.
